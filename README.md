@@ -42,7 +42,7 @@
     <a href="https://t.me/Flourishawk" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
     </a>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+    <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKHRLxVftjQgMgBFGKVWSNXfhWKGjNNpHbNmCLDGrBLgRJxdlNWgxKlWdfCwRwrtZCFKbBq" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" title="Gmail" alt="Gmail" width="40" height="40"/>&nbsp;
     </a>
 </div>
