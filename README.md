@@ -23,9 +23,9 @@
 </div>
 
 ## Мої проєкти
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/git-test&mode=dark&style=horizontal)](https://github.com/Flourishawk/git-test)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/git-test&mode=light&style=horizontal)](https://github.com/Flourishawk/git-test)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/git-test&mode=dark&style=horizontal)](https://github.com/Flourishawk/git-test)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/Generator_of_associative_rules&mode=dark)](https://github.com/Flourishawk/Generator_of_associative_rules)
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/Rating_calculator&mode=dark&style=horizontal)](https://github.com/Flourishawk/Rating_calculator)
 
 ## Більше про мене
 - ☕Прокидаюся тільки після кавусі
