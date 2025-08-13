@@ -1,31 +1,27 @@
 # Вітаю👋Мене звати Михайло Іщенко
 
-Я починаючий розробник з України💛💙 Моя головна сфера цікавості - розробка на мові C#. Головна не значить єдина, цікавлюся усім, що 
-попадається під руку. Багато уваги приділяю покращенню, автоматизації та постійності процесу розробки, бо саме він мені і подобається.
-Тривалий час займаюся дослідженням та просуванням сфери асоціативних правил.
+Я досвідчений аналітик даних із міцною академічною базою та практичними навичками в роботі з базами даних і автоматизації бізнес-процесів.
 
-## Працюю з цими технологіями
+У професійному досвіді зосереджуюсь на розробці та оптимізації SQL-запитів (PostgreSQL, MySQL), автоматизації аналітичних процесів за допомогою Python та інтеграції з різними API. 
+Розробляю комплексні аналітичні системи, створюю документацію та інструкції, а також організовую роботу невеликих команд із використанням Kanban (Trello). 
+Маю досвід проведення технічних співбесід із кандидатами на посади аналітиків.
+
+Зацікавлений у подальшому розвитку технічних навичок, поєднуючи їх із лідерськими якостями та досвідом організації процесів для підтримки ефективної роботи команд і проєктів.
+
+## Технології з якими працюю
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://i.ibb.co/98q9JyN/WPF.png" title="WPF" alt="WPF" width="40" height="40"/>&nbsp;
-  <img src="https://i.ibb.co/7gpTJfp/Windows-Forms-v1-0.png" title="WinForms" alt="WinForms" width="40" height="40"/>&nbsp;
 </div>
 
-## Вмію користуватися цим
+## Інструменти та методології
 <div>
+<img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
 </div>
-
-## Мої проєкти
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/Generator_of_associative_rules&mode=dark)](https://github.com/Flourishawk/Generator_of_associative_rules)
-
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/Flourishawk/Rating_calculator&mode=dark&style=horizontal)](https://github.com/Flourishawk/Rating_calculator)
 
 ## Більше про мене
 - ☕Прокидаюся тільки після кавусі
@@ -33,9 +29,6 @@
 - 🎮Моя улюблена гра - Hollow Knight
 - 🎲Подобаються настільні ігри
 
-## Статистика
-
-![Flourishawk's Stats](https://github-readme-stats.vercel.app/api?username=Flourishawk&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 ## Зі мною можна зв'язатися за допомогою
 <div id="badges">
